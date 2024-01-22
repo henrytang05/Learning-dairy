@@ -1,0 +1,17 @@
+date,concept
+2023-09-23|,A little bit of smart pointer
+2023-09-23|Return by reference used for chaining
+2023-09-23|"Function pointer int(*func)(int,int) = add;"
+2023-09-23|Compile using terminal without tasks.json
+2023-09-23|"Sys(""mkdir"") or other type of command in terminal"
+2023-09-23|Must initialize static value in the .h file 
+2023-09-30|Constexpr
+2023-10-05|Manipulating bmp
+2023-10-05|Using file manipulation
+2023-10-07|Dictread returns a list of dictionary
+2023-10-09|"Simple html, css and javascript"
+2023-10-09|"Javascript use '' and html use """", just a convention"
+2023-10-27|"Std::function<bool(int,int)>func (parameter in the function)"
+2023-10-28|Hello
+2023-10-28|Hello
+2023-10-28|This is the new concept
